@@ -74,3 +74,6 @@ logs
 # Server runtime output (named after NAME / BASE_URL)
 /sweetpotatobase
 /brapi_v2
+
+# Local editor settings
+.vscode/
